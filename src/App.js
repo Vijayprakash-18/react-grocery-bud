@@ -1,5 +1,5 @@
 import React from "react";
-import Validator from "./grocery/Validator";
+import Validator from "./Validator";
 
 function App() {
   return(
